@@ -1,0 +1,9 @@
+C:\Users\Dell\Desktop\MidTerm_Prep\ToCountLogisticFee\ToCountLogisticFee\obj\Debug\ToCountLogisticFee.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\MidTerm_Prep\ToCountLogisticFee\ToCountLogisticFee\obj\Debug\ToCountLogisticFee.Form1.resources
+C:\Users\Dell\Desktop\MidTerm_Prep\ToCountLogisticFee\ToCountLogisticFee\obj\Debug\ToCountLogisticFee.Properties.Resources.resources
+C:\Users\Dell\Desktop\MidTerm_Prep\ToCountLogisticFee\ToCountLogisticFee\obj\Debug\ToCountLogisticFee.csproj.GenerateResource.cache
+C:\Users\Dell\Desktop\MidTerm_Prep\ToCountLogisticFee\ToCountLogisticFee\obj\Debug\ToCountLogisticFee.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\MidTerm_Prep\ToCountLogisticFee\ToCountLogisticFee\bin\Debug\ToCountLogisticFee.exe
+C:\Users\Dell\Desktop\MidTerm_Prep\ToCountLogisticFee\ToCountLogisticFee\bin\Debug\ToCountLogisticFee.pdb
+C:\Users\Dell\Desktop\MidTerm_Prep\ToCountLogisticFee\ToCountLogisticFee\obj\Debug\ToCountLogisticFee.exe
+C:\Users\Dell\Desktop\MidTerm_Prep\ToCountLogisticFee\ToCountLogisticFee\obj\Debug\ToCountLogisticFee.pdb
